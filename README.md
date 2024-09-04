@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DSA in Cpp
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG - @ayyushhere
+- 📫 How to reach me IG - @ayyusshhere
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
